@@ -1,5 +1,7 @@
 # Azure AI Security Perimeter Lab
 
+![Azure AI Security Perimeter](architecture/azure-ai-security-perimeter.png)
+
 Terraform lab for deploying a secured Azure AI reference environment.
 
 The goal is to demonstrate how an AI workload can be placed behind multiple security layers: identity, access control, private networking, monitoring and governance.
